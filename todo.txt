@@ -1,3 +1,1 @@
-"Estudar Git" 
-"Fazer exerc¡cios" 
-"Revisar comandos" 
+Revisar Git … tarde
